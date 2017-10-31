@@ -1,10 +1,12 @@
 # ewbf-miner
-zcash cuda miner
+bitcoin gold cuda miner
 
 Writen for pascal gpus but works on cards with at least 1Gb memory, and Compute Capability 3 and higher.
 Miner contain dev fee 2%.
 
 History:
+Version 0.3.2b - BTG
+- Added support for Bitcoin Gold
 
 Version 0.3.2b
 Increased speed up to 2%, depends on card model. some cards not give any speed changes.
