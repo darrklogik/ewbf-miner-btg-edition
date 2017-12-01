@@ -1,14 +1,23 @@
 # ewbf-btg-miner
-bitcoin gold cuda miner
+bitcoin gold cuda miner, that contains no Viruses!
 
+These  files contain  virus:
 [Download Windows BTG Cuda Miner](https://github.com/poolgold/ewbf-miner-btg-edition/releases/download/v0.3.4b-BTG/BTG-nVidia.miner.0.3.4b.zip)
 
 [Download Linux BTG Cuda Miner](https://github.com/poolgold/ewbf-miner-btg-edition/releases/download/v0.3.4b-BTG/BTG-nVidia.miner.0.3.4b.Linux.Bin.zip)
+
+Virustotal discovered it.
+
+
+The new download links be available soon.
 
 Writen for pascal gpus but works on cards with at least 1Gb memory, and Compute Capability 3 and higher.
 Miner contain dev fee 2%.
 
 History:
+Version 0.4.0
+WORK IN PROGRESS - removed virus from binary files.
+
 Version 0.3.2b - BTG
 - Added support for Bitcoin Gold
 
